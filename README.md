@@ -6,7 +6,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone [url-репозитория]
+git clone [https://github.com/yuryblakhin/file-collector]
 
 # Перейдите в директорию проекта
 cd folder-scanner
