@@ -1,0 +1,17 @@
+{
+  "name": "file-collector",
+  "version": "1.0.0",
+  "description": "Утилита для сканирования директорий и сохранения содержимого файлов с их путями.",
+  "scripts": {
+    "start": "node src/cli.js",
+    "scan": "node src/cli.js --last"
+  },
+  "keywords": [
+    "file",
+    "scanner",
+    "utility",
+    "config"
+  ],
+  "author": "",
+  "license": "ISC"
+}
